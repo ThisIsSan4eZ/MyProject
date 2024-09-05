@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DjSta\\Desktop\\zadanie1\\zadanie1\\zadanie1.csproj": {}
+    "C:\\Users\\DjSta\\Documents\\GitHub\\MyProject\\zadanie1\\zadanie1\\zadanie1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DjSta\\Desktop\\zadanie1\\zadanie1\\zadanie1.csproj": {
+    "C:\\Users\\DjSta\\Documents\\GitHub\\MyProject\\zadanie1\\zadanie1\\zadanie1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DjSta\\Desktop\\zadanie1\\zadanie1\\zadanie1.csproj",
+        "projectUniqueName": "C:\\Users\\DjSta\\Documents\\GitHub\\MyProject\\zadanie1\\zadanie1\\zadanie1.csproj",
         "projectName": "zadanie1",
-        "projectPath": "C:\\Users\\DjSta\\Desktop\\zadanie1\\zadanie1\\zadanie1.csproj",
+        "projectPath": "C:\\Users\\DjSta\\Documents\\GitHub\\MyProject\\zadanie1\\zadanie1\\zadanie1.csproj",
         "packagesPath": "C:\\Users\\DjSta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DjSta\\Desktop\\zadanie1\\zadanie1\\obj\\",
+        "outputPath": "C:\\Users\\DjSta\\Documents\\GitHub\\MyProject\\zadanie1\\zadanie1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DjSta\\AppData\\Roaming\\NuGet\\NuGet.Config",
